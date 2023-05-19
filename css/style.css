@@ -1,0 +1,16 @@
+ul{
+    display: block;
+    background-color: blueviolet;
+    color: white;
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+
+
+}a{
+    color: #fff;
+    text-decoration: none;
+}
